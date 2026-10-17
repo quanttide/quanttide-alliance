@@ -11,5 +11,5 @@
 
 ### 变更
 
-- `data/context` 子模块更新至最新语境。
+- `data/context` 与 `data/brochure` 子模块更新：语境草稿《选拔方式》移入宣传册 `qtrecurit/index.md`，源文件按移动纪律删除。
 
