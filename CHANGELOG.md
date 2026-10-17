@@ -15,4 +15,5 @@
 - `data/brochure` 子模块更新：《选拔方式》补充创始人渠道与首个练手项目《滁州夜市 · 串串摊》。
 - `data/brochure` 子模块更新：新增《为什么这样选拔》（`qtrecurit/why.md`）。
 - `data/brochure` 子模块更新：新增《选拔方式是什么》（`qtrecurit/what.md`）。
+- `data/brochure` 子模块更新：新增《怎么加入公司》（`qtrecurit/how.md`），共同流程移出《选拔方式是什么》。
 
