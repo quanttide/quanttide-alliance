@@ -19,4 +19,5 @@
 - `data/brochure` 子模块更新：《选拔方式》收敛为入口页，正文拆分到 why / what / how。
 - `data/brochure` 子模块更新：《选拔方式是什么》新增渠道选择建议。
 - `data/brochure` 子模块更新：《选拔方式是什么》重写概述。
+- `data/brochure` 子模块更新：新增《在哪里进行》（`qtrecurit/where.md`）。
 
