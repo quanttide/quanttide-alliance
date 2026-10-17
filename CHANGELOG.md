@@ -16,4 +16,5 @@
 - `data/brochure` 子模块更新：新增《为什么这样选拔》（`qtrecurit/why.md`）。
 - `data/brochure` 子模块更新：新增《选拔方式是什么》（`qtrecurit/what.md`）。
 - `data/brochure` 子模块更新：新增《怎么加入公司》（`qtrecurit/how.md`），共同流程与考核标准移出《选拔方式是什么》。
+- `data/brochure` 子模块更新：《选拔方式》收敛为入口页，正文拆分到 why / what / how。
 
