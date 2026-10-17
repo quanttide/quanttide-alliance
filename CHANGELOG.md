@@ -21,4 +21,5 @@
 - `data/brochure` 子模块更新：《选拔方式是什么》重写概述。
 - `data/brochure` 子模块更新：新增《在哪里进行》（`qtrecurit/where.md`）。
 - `data/brochure` 子模块更新：新增《什么时候进行》（`qtrecurit/when.md`）。
+- `data/brochure` 子模块更新：新增《谁在参与》（`qtrecurit/who.md`）。
 
