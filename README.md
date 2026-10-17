@@ -11,6 +11,7 @@
 | 目录 | 内容 |
 |:--|:--|
 | `data/context/` | 语境档案（想法、未澄清的线索） |
+| `data/brochure/` | 宣传册（对外宣传与介绍材料） |
 | `data/journal/` | 日志 |
 | `data/profile/` | 档案 |
 | `docs/` | 知识库 |

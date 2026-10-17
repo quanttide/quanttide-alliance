@@ -4,4 +4,8 @@
 
 ## [Unreleased]
 
+### 新增
+
 - 初始化仓库。
+- 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
+

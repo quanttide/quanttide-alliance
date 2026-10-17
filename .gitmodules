@@ -1,3 +1,6 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-innovation-alliance.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-innovation-alliance.git
