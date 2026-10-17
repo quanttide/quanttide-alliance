@@ -9,3 +9,7 @@
 - 初始化仓库。
 - 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
 
+### 变更
+
+- `data/context` 子模块更新至最新语境。
+
