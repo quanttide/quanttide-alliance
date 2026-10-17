@@ -12,4 +12,5 @@
 ### 变更
 
 - `data/context` 与 `data/brochure` 子模块更新：语境草稿《选拔方式》移入宣传册 `qtrecurit/index.md`，源文件按移动纪律删除。
+- `data/brochure` 子模块更新：《选拔方式》补充创始人渠道与首个练手项目《滁州夜市 · 串串摊》。
 
