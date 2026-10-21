@@ -9,6 +9,7 @@
 - 初始化仓库。
 - 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
 - 新增日志子模块 `data/journal`（`quanttide-journal-of-innovation-alliance`）：联盟主体的工作日志。
+- 新增档案子模块 `data/profile`（`quanttide-profile-of-innovation-alliance`）：联盟主体的稳定档案。
 
 ### 变更
 
@@ -26,4 +27,5 @@
 - `data/brochure` 子模块更新：新增《谁在参与》（`qtrecurit/who.md`）。
 - `data/brochure` 子模块更新：《选拔方式》重写绪论。
 - `data/context` 子模块更新：`qtacademy/journal/` 与 `qtrecurit/journal/` 的 5 篇日志移入 `data/journal`，按域与月份分二级目录。
+- `data/journal` 子模块更新：追加实训基地 2026-10-21 日志（组织构建的选人、留人与流程）。
 
