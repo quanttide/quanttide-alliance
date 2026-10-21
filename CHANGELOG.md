@@ -28,6 +28,7 @@
 - `data/brochure` 子模块更新：《选拔方式》重写绪论。
 - `data/context` 子模块更新：`qtacademy/journal/` 与 `qtrecurit/journal/` 的 5 篇日志移入 `data/journal`，按域与月份分二级目录。
 - `data/journal` 子模块更新：追加实训基地 2026-10-21 日志（组织构建的选人、留人与流程）。
+- `data/journal` 子模块更新：2026-10-21 日志补入选人方案的具体执行口径（问卷信息、证据收集、评价与筛选/通过标准）。
 - `data/brochure` 子模块更新：新增《SVIP 特权》（`qtacademy/svip.md`），自语境 `qtacademy/bylaw/svip.md` 迁入；暂不具备制定章程的条件，先作为宣传材料整理。
 - `data/context` 子模块更新：`qtacademy/bylaw/svip.md` 移入宣传册，源文件按移动纪律删除。
 
