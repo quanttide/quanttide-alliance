@@ -32,4 +32,5 @@
 - `data/profile` 子模块更新：《组织》选人流程补充可执行口径（问卷信息、证据收集、评价顺序、筛选评分与通过标准）。
 - `data/brochure` 子模块更新：新增《SVIP 特权》（`qtacademy/svip.md`），自语境 `qtacademy/bylaw/svip.md` 迁入；暂不具备制定章程的条件，先作为宣传材料整理。
 - `data/context` 子模块更新：`qtacademy/bylaw/svip.md` 移入宣传册，源文件按移动纪律删除。
+- `data/context` 子模块更新：新增《量潮模拟经营游戏任务书》（`qtacademy/intention/qtgame-tycoon.md`）。
 
