@@ -6,6 +6,8 @@
 
 联盟是量潮的治理机构之一，与公司（`defaults/quanttide-tech`）、实训基地（`defaults/quanttide-academy`）并列的法人主体。本仓承载联盟主体自己的档案：它管什么、依据什么、与社区和公司如何划界。
 
+实训基地的管理职能不在此仓，归实训基地自己的第二大脑 `defaults/quanttide-academy`。
+
 ## 目录
 
 | 目录 | 内容 |

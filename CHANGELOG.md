@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 移除
+
+- 实训基地管理职能移出联盟第二大脑：四个子仓的 `qtacademy/` 全部内容按资产类型移交 `defaults/quanttide-academy` 对应仓的 `default/`，联盟侧不再保留副本。README 定位补一句边界——实训基地管理归 `defaults/quanttide-academy`。
+
 ### 新增
 
 - 初始化仓库。
