@@ -38,3 +38,4 @@
 - `data/context` 子模块更新：`qtacademy/bylaw/svip.md` 移入宣传册，源文件按移动纪律删除。
 - `data/context` 子模块更新：新增《量潮模拟经营游戏任务书》（`qtacademy/intention/qtgame-tycoon.md`）。
 
+- 新增 docs/handbook、docs/essay 子模块：迁入 qtrecurit 手册与随笔（自量潮科技）
