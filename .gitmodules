@@ -22,3 +22,6 @@
 [submodule "data/history"]
 	path = data/history
 	url = https://github.com/quanttide/quanttide-history-of-innovation-alliance.git
+[submodule "data/archive"]
+	path = data/archive
+	url = https://github.com/quanttide/quanttide-archive-of-innovation-alliance.git
