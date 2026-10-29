@@ -46,3 +46,4 @@
 - data/journal 子模块更新：迁入 qtrecurit 日志 20 篇（2026-06~08，自量潮科技归档仓）
 - 新增 data/archive 子模块：平移 qtrecurit 归档（profile/intention/context，自量潮科技工作归档）
 - 新增 data/roadmap、data/report、docs/bylaw 子模块：qtrecurit 招聘路线图、招聘报告（含生成技能）、招聘审计章程迁入（自量潮科技）
+- data/profile 子模块更新：迁入 qtrecurit 招聘政策档案（自 qtadmin CLI 数据目录，已脱敏）
