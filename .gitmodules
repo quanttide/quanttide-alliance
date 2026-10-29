@@ -25,3 +25,12 @@
 [submodule "data/archive"]
 	path = data/archive
 	url = https://github.com/quanttide/quanttide-archive-of-innovation-alliance.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-innovation-alliance.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-innovation-alliance.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-innovation-alliance.git
