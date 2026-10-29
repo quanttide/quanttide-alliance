@@ -48,3 +48,4 @@
 - 新增 data/roadmap、data/report、docs/bylaw 子模块：qtrecurit 招聘路线图、招聘报告（含生成技能）、招聘审计章程迁入（自量潮科技）
 - data/profile 子模块更新：迁入 qtrecurit 招聘政策档案（自 qtadmin CLI 数据目录，已脱敏）
 - data/profile 子模块更新：新增 strategy/open-vs-close.md（开源与闭源战略）
+- data/profile 子模块更新：新增 strategy/acquisition.md（获客战略）
