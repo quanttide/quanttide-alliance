@@ -43,3 +43,4 @@
 - data/brochure 子模块更新：迁入 qtrecurit 招聘宣传三篇（自量潮科技宣传册）
 - 新增 data/insight、data/history 子模块：迁入 qtrecurit 招聘洞察九篇与历史文章三篇（自量潮科技）
 - data/history 子模块更新：修正 qtrecurit 历史目录拼写（accessment → assessment）
+- data/journal 子模块更新：迁入 qtrecurit 日志 20 篇（2026-06~08，自量潮科技归档仓）
