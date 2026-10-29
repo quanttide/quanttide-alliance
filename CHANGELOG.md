@@ -41,3 +41,4 @@
 - 新增 docs/handbook、docs/essay 子模块：迁入 qtrecurit 手册与随笔（自量潮科技）
 - 招聘口径统一：qtrecurit 手册与随笔按托管口径改写（docs/handbook、docs/essay 子模块更新）；brochure TODO 招募主体口径项关闭（data/brochure 子模块更新）
 - data/brochure 子模块更新：迁入 qtrecurit 招聘宣传三篇（自量潮科技宣传册）
+- 新增 data/insight、data/history 子模块：迁入 qtrecurit 招聘洞察九篇与历史文章三篇（自量潮科技）
