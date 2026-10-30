@@ -14,6 +14,7 @@
 - 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
 - 新增日志子模块 `data/journal`（`quanttide-journal-of-innovation-alliance`）：联盟主体的工作日志。
 - 新增档案子模块 `data/profile`（`quanttide-profile-of-innovation-alliance`）：联盟主体的稳定档案。
+- 新增招聘应用子模块 `apps/qtrecurit`（`qtrecurit`）：联盟招聘相关产品应用。
 
 ### 变更
 

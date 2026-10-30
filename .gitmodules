@@ -34,3 +34,6 @@
 [submodule "docs/bylaw"]
 	path = docs/bylaw
 	url = https://github.com/quanttide/quanttide-bylaw-of-innovation-alliance.git
+[submodule "apps/qtrecurit"]
+	path = apps/qtrecurit
+	url = https://github.com/quanttide/qtrecurit.git
