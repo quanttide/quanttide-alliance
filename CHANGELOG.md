@@ -15,6 +15,7 @@
 
 ### 新增
 
+- 新增 `data/intention` 子模块（quanttide-intention-of-innovation-alliance）：联盟新增意图类目仓，首批迁入招聘意图（`qtrecurit/index.md`，自量潮人力资源意图仓平移）
 - `docs/bylaw` 子模块更新：迁入《量潮招聘考核课题立项评审章程》（`qtrecurit/proposal.md`），自量潮人力资源章程仓迁入，与招聘审计章程同区；招聘事务归联盟主体
 - 初始化仓库。
 - 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
