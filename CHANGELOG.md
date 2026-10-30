@@ -10,6 +10,7 @@
 
 ### 新增
 
+- `docs/bylaw` 子模块更新：迁入《量潮招聘考核课题立项评审章程》（`qtrecurit/proposal.md`），自量潮人力资源章程仓迁入，与招聘审计章程同区；招聘事务归联盟主体
 - 初始化仓库。
 - 新增宣传册子模块 `data/brochure`（`quanttide-brochure-of-innovation-alliance`）：联盟主体的对外宣传与介绍材料。
 - 新增日志子模块 `data/journal`（`quanttide-journal-of-innovation-alliance`）：联盟主体的工作日志。
