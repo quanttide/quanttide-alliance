@@ -16,6 +16,7 @@
 
 ### 新增
 
+- `apps/qtcrowd` 子模块（quanttide/qtcrowd，量潮众包平台）：与 qtrecurit 同属培养体系（课堂→众包→招聘），招聘考核的课题与阶梯任务来自众包平台
 - 新增 `data/intention` 子模块（quanttide-intention-of-innovation-alliance）：联盟新增意图类目仓，首批迁入招聘意图（`qtrecurit/index.md`，自量潮人力资源意图仓平移）
 - `docs/bylaw` 子模块更新：迁入《量潮招聘考核课题立项评审章程》（`qtrecurit/proposal.md`），自量潮人力资源章程仓迁入，与招聘审计章程同区；招聘事务归联盟主体
 - 初始化仓库。

@@ -40,3 +40,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-innovation-alliance.git
+[submodule "apps/qtcrowd"]
+	path = apps/qtcrowd
+	url = https://github.com/quanttide/qtcrowd.git
